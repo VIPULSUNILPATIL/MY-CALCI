@@ -1,0 +1,58 @@
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+body{
+  background-image: url('C:/Users/Lenovo/Documents/WEB DEVLOPEMENT/img/calcibg.jpg') ;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  
+  .button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 70px;
+    height: 50px;
+    padding: 10px;
+    margin: 2px 15px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: antiquewhite;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .button:hover{
+    background-color: azure;
+    box-shadow: 4px 4px  burlywood;
+  }
+  #o1{
+    
+    width: 123px;
+    height: auto;
+  }
+  #o2{
+    
+    width: 110px;
+    height: auto;
+  }
+  #o3{
+    
+    width: 117px;
+    height: auto;
+  }
+  .row{
+    margin: 15px 0;
+  }
+  .row input{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width:490px;
+    font-size: 30px;
+      margin: 0;
+      padding: 10px 0px;
+      border: 2px solid black;
+      border-radius: 5px;
+  }
